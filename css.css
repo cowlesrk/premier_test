@@ -1,0 +1,13 @@
+.jumbotron {
+    background-image: url("http://www.tricksyknitter.com/wp-content/uploads/2012/01/knitpickspalette.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    padding: 10%;
+
+}
+
+.jumbotron h1, p {
+    color: white;
+}
