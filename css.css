@@ -1,3 +1,10 @@
+.main {
+    position: relative;
+    width: 100%;
+    padding: 5%;
+  
+}
+
 .jumbotron {
     background-image: url("https://images.unsplash.com/photo-1429019857339-35b401806fa1?crop=entropy&dpr=2&fit=crop&fm=jpg&h=1175&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1525");
     background-repeat: no-repeat;
