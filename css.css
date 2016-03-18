@@ -12,14 +12,16 @@
     color: white;
 }
 
-.carousel-inner {
-	height: 200px;
-	max-width: 400px;
+#carousel-example-generic {
+    width: 75%;
+    
 }
 
-.carousel-inner img {
-	max-width: 10%;
+.carousel-caption {
+    position: absolute;
+    font-size: 14px;
 }
+
 
 .row {
 	background-color: #F2635F;
@@ -28,4 +30,8 @@
 
 .page-header h1 {
     color: #79BFA1;
+}
+
+.page-header small {
+
 }
