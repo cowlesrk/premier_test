@@ -1,7 +1,6 @@
 .main {
     position: relative;
     width: 100%;
-    padding: 5%;
   
 }
 
@@ -138,10 +137,12 @@
 
 .carousel {
     margin-bottom: 0;
-    padding: 0 40px 30px 40px;
+    padding: 0 0px 0px 0px;
+    max-width: 700px;
+
 }
 /* The controlsy */
-.carousel-control {
+.carousel-control-inverse {
     left: -12px;
     height: 40px;
     width: 40px;
@@ -150,7 +151,7 @@
     border-radius: 23px 23px 23px 23px;
     margin-top: 90px;
 }
-.carousel-control.right {
+.carousel-control.right-inverse {
     right: -12px;
 }
 /* The indicators */
